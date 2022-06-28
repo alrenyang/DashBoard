@@ -26,7 +26,6 @@
     </v-main>
     <v-footer dark padless>
       <v-col
-        
         class="text-center grey darken-3"
         cols="12"
       >
