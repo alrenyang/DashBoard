@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+vue add router
+npm install --save vue-dayjs
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
